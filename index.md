@@ -1,4 +1,4 @@
-Over the years, progress on computer vision research has eectively beneted
+Over the years, progress on computer vision research has effectively benefitted
 medical domain, leading to development of several high impact image-guided interventions and
 therapies. While past couple of years have seen tremendous progress on 3D computer vision, espe-
 cially in ADAS or driver-less navigation domains, the impact on medical domain has been limited.
