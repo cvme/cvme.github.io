@@ -20,3 +20,8 @@ or point-based representations
 - **Scene reconstruction for navigation**
 For navigation and path planning for devices
 
+# Program
+ 
+- **Date**: Sunday, June 16, 2019
+- **Time**: 01:30p - 6:00p
+- **Location**: tba
