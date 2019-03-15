@@ -28,3 +28,8 @@ For navigation and path planning for devices
 
 # Speakers
 To be announced soon.
+
+# Organizers
+- Vivek Singh, Siemens Healthineers
+- Yao-jen Chang, Siemens Healthineers
+- Ankur Kapoor, Siemens Healthineers
