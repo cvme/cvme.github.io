@@ -12,7 +12,7 @@ Human body modeling (or patient modeling) is critical to several applications su
 positioning for medical scanning, support for prosthetic design, computed assisted rehabilita-
 tion systems.
 - **Non-rigid shape representation**
-For human body, organs, vessels etc.; topics that emphasize the trade os involved in volumetric
+For human body, organs, vessels etc.; topics that emphasize the trade offs involved in volumetric
 or point-based representations
 - **Endoscopic imaging and analysis for surgical guidance**
 3D reconstruction using endoscopic imaging to provide guidance to surgical procedures
