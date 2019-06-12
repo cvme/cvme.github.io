@@ -5,6 +5,7 @@ table {
 }
 td {
     border: none;
+    text-align: center;
 }
 </style>
 
