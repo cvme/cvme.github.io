@@ -43,7 +43,7 @@ For navigation and path planning for devices
 # Invited Speakers
 <table>
   <tr>
-    <td style="text-align:center">
+    <td>
       <img src='./images/nicolas_padoy.png' width="160" /><br/>
       <font size="3">Nicolas Padoy<br/>University of Strasbourg</font>
     </td>
