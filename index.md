@@ -50,11 +50,11 @@ For navigation and path planning for devices
       <font size="3">Zicheng Liu<br/>Microsoft Research</font>
     </td>
     <td>
-      <img src='./images/serena_young.png' width="148" /><br/>
+      <img src='./images/serena_young.png' width="136" /><br/>
       <font size="3">Serena Yeung<br/>Stanford University</font>
     </td>
     <td>
-      <img src='./images/mathias_unberath.png' width="154" /><br/>
+      <img src='./images/mathias_unberath.png' width="150" /><br/>
       <font size="3">Mathias Unberath<br/>Johns Hopkins University</font>
     </td>
   </tr>
