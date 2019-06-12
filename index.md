@@ -41,7 +41,7 @@ For navigation and path planning for devices
 | 5:30 PM  | Panel discussion |
 
 # Invited Speakers
-<table>
+<table border="none">
   <tr>
     <td>
       <img src='./images/nicolas_padoy.png' width="160" /><br/>
