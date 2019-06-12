@@ -28,10 +28,10 @@ For navigation and path planning for devices
 | 4:45 PM  | Towards the next generation of image guidance for endoscopic procedures | [Mathias Unberath](https://www.cs.jhu.edu/faculty/mathias-unberath/) |
 | 5:30 PM  | Panel discussion |
 
-# Speakers
+# Invited Speakers
 <figure>
     <img src='./images/nicolas_padoy.png' width="192" />
-    <font size="2">
+    <font size="3" align="center">
     <figcaption>Nicolas Padoy<br/>University of Strasbourg </figcaption>
     </font>
 </figure>
