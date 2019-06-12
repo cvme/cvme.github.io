@@ -40,7 +40,7 @@ For navigation and path planning for devices
 | 5:30 PM  | Panel discussion |
 
 # Invited Speakers
-<table style="width:100%">
+<table>
   <tr>
     <td>
       <img src='./images/nicolas_padoy.png' width="160" /><br/>
@@ -55,7 +55,7 @@ For navigation and path planning for devices
       <font size="3">Serena Yeung<br/>Stanford University</font>
     </td>
     <td>
-      <img src='./images/mathias_unberath.png' width="150" /><br/>
+      <img src='./images/mathias_unberath.png' width="148" /><br/>
       <font size="3">Mathias Unberath<br/>Johns Hopkins University</font>
     </td>
   </tr>
