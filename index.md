@@ -32,12 +32,9 @@ For navigation and path planning for devices
 <table style="width:100%" border="0">
   <tr>
     <td>
-      <figure>
-          <img src='./images/nicolas_padoy.png' width="192" />
-          <font size="3">
-          <figcaption>Nicolas Padoy<br/>University of Strasbourg </figcaption>
-          </font>
-      </figure>
+      <img src='./images/nicolas_padoy.png' width="192" /><br/>
+      <font size="3">Nicolas Padoy<br/>University of Strasbourg
+      </font>
     </td>
   </tr>
   <tr>
