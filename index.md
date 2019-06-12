@@ -19,14 +19,14 @@ For navigation and path planning for devices
 
 | Schedule        | Title         | Speaker       |
 | --------------- | ------------- | ------------- |
-| 1:30 – 1:35 PM  | Opening remarks  | Yao-jen Chang/Vivek Singh|
-| 1:35 – 2:20 PM  | Computer Vision for Monitoring Safety in the Operating Room  | [Nicolas Padoy](http://camma.u-strasbg.fr/npadoy),  University of Strasbourg |
-| 2:20 – 3:05 PM  | 3D Skeletal Tracking on Azure Kinect  | [Zicheng Liu](https://www.microsoft.com/en-us/research/people/zliu/), Microsoft Research |
-| 3:05 – 3:15 PM  | Coffee break | 
-| 3:15 – 4:00 PM  | Ambient Intelligence in AI-Assisted Hospitals | [Serena Yeung](http://ai.stanford.edu/~syyeung/), Stanford University)  |
-| 4:00 – 4:45 PM  | Towards autonomous medical scanning | Yao-jen Chang/Vivek Singh, Siemens Healthineers |
-| 4:45 – 5:30 PM  | Towards the next generation of image guidance for endoscopic procedures | [Mathias Unberath](https://www.cs.jhu.edu/faculty/mathias-unberath/), Johns Hopkins University |
-| 5:30 – 6:00 PM  | Panel discussion |
+| 1:30 PM  | Opening remarks  | Yao-jen Chang/Vivek Singh|
+| 1:35 PM  | Computer Vision for Monitoring Safety in the Operating Room  | [Nicolas Padoy](http://camma.u-strasbg.fr/npadoy) |
+| 2:20 PM  | 3D Skeletal Tracking on Azure Kinect  | [Zicheng Liu](https://www.microsoft.com/en-us/research/people/zliu/) |
+| 3:05 PM  | Coffee break | 
+| 3:15 PM  | Ambient Intelligence in AI-Assisted Hospitals | [Serena Yeung](http://ai.stanford.edu/~syyeung/) |
+| 4:00 PM  | Towards autonomous medical scanning | Yao-jen Chang/Vivek Singh |
+| 4:45 PM  | Towards the next generation of image guidance for endoscopic procedures | [Mathias Unberath](https://www.cs.jhu.edu/faculty/mathias-unberath/) |
+| 5:30 PM  | Panel discussion |
 
 # Speakers
 
