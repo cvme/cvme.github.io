@@ -31,7 +31,7 @@ For navigation and path planning for devices
 # Invited Speakers
 <figure>
     <img src='./images/nicolas_padoy.png' width="192" />
-    <font size="3" align="center">
+    <font size="3">
     <figcaption>Nicolas Padoy<br/>University of Strasbourg </figcaption>
     </font>
 </figure>
