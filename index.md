@@ -1,3 +1,12 @@
+<style type="text/css">
+table {
+    border:none;
+}
+td {
+    border: none;
+}
+</style>
+
 Over the years, progress on computer vision research has effectively benefitted medical domain, leading to development of several high impact image-guided interventions and therapies. While past couple of years have seen tremendous progress on 3D computer vision, especially in ADAS or driver-less navigation domains, the impact on medical domain has been limited. This workshop is to bring together the practitioners of 3D computer vision and medical domain and engage in a dialogue emphasizing the key recent advances and bridging the gap between 3d computer vision research and potential medical applications. 
 
 The talks in the workshop cover following topics,
@@ -33,11 +42,17 @@ For navigation and path planning for devices
   <tr>
     <td>
       <img src='./images/nicolas_padoy.png' width="192" /><br/>
-      <font size="3">Nicolas Padoy<br/>University of Strasbourg
-      </font>
+      <font size="3">Nicolas Padoy<br/>University of Strasbourg</font>
+    </td>
+    <td>
+      <img src='./images/zicheng_liu.png' width="192" /><br/>
+      <font size="3">Zicheng Liu<br/>Microsoft Research</font>
+    </td>
+    <td>
+      <img src='./images/serena_young.png' width="192" /><br/>
+      <font size="3">Serena Yeung<br/>Stanford University</font>
     </td>
   </tr>
-  <tr>
 <table>
 
 # Organizers
