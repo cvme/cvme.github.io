@@ -1,14 +1,4 @@
-<style type="text/css">
-table {
-    border:none;
-    border-collapse: collapse;
-}
-td {
-    border: none;
-    text-align: center;
-    padding-right:10px;
-}
-</style>
+(setq markdown-css-paths '("main.css"))
 
 Over the years, progress on computer vision research has effectively benefitted medical domain, leading to development of several high impact image-guided interventions and therapies. While past couple of years have seen tremendous progress on 3D computer vision, especially in ADAS or driver-less navigation domains, the impact on medical domain has been limited. This workshop is to bring together the practitioners of 3D computer vision and medical domain and engage in a dialogue emphasizing the key recent advances and bridging the gap between 3d computer vision research and potential medical applications. 
 
