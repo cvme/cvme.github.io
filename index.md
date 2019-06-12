@@ -29,6 +29,12 @@ For navigation and path planning for devices
 | 5:30 PM  | Panel discussion |
 
 # Speakers
+<figure>
+    <img src='./images/nicolas_padoy.png' />
+    <font size="2">
+    <figcaption>Nicolas Padoy<br/>University of Strasbourg </figcaption>
+    </font>
+</figure>
 
 # Organizers
 - Vivek Singh, Siemens Healthineers
