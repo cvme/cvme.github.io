@@ -6,6 +6,7 @@ table {
 td {
     border: none;
     text-align: center;
+    padding-right:10px;
 }
 </style>
 
