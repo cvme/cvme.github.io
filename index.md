@@ -19,12 +19,12 @@ For navigation and path planning for devices
 
 | Schedule        | Title         | Speaker       |
 | --------------- | ------------- | ------------- |
-| 1:30 PM  | Opening remarks  | Yao-jen Chang/Vivek Singh|
+| 1:30 PM  | Opening remarks  | [Yao-jen Chang](https://kevinyjchang.github.io/) /[Vivek Singh](https://scholar.google.com/citations?user=E9-rksMAAAAJ&hl=en)|
 | 1:35 PM  | Computer Vision for Monitoring Safety in the Operating Room  | [Nicolas Padoy](http://camma.u-strasbg.fr/npadoy) |
 | 2:20 PM  | 3D Skeletal Tracking on Azure Kinect  | [Zicheng Liu](https://www.microsoft.com/en-us/research/people/zliu/) |
 | 3:05 PM  | Coffee break | 
 | 3:15 PM  | Ambient Intelligence in AI-Assisted Hospitals | [Serena Yeung](http://ai.stanford.edu/~syyeung/) |
-| 4:00 PM  | Towards autonomous medical scanning | Yao-jen Chang/Vivek Singh |
+| 4:00 PM  | Towards autonomous medical scanning | [Yao-jen Chang](https://kevinyjchang.github.io/) /[Vivek Singh](https://scholar.google.com/citations?user=E9-rksMAAAAJ&hl=en) |
 | 4:45 PM  | Towards the next generation of image guidance for endoscopic procedures | [Mathias Unberath](https://www.cs.jhu.edu/faculty/mathias-unberath/) |
 | 5:30 PM  | Panel discussion |
 
