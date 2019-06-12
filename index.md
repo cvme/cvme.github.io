@@ -1,6 +1,7 @@
 <style type="text/css">
 table {
     border:none;
+    border-collapse: collapse;
 }
 td {
     border: none;
@@ -52,8 +53,6 @@ For navigation and path planning for devices
       <img src='./images/serena_young.png' width="164" /><br/>
       <font size="3">Serena Yeung<br/>Stanford University</font>
     </td>
-  </tr>
-  <tr>
     <td>
       <img src='./images/mathias_unberath.png' width="164" /><br/>
       <font size="3">Mathias Unberath<br/>Johns Hopkins University</font>
