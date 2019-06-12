@@ -38,19 +38,25 @@ For navigation and path planning for devices
 | 5:30 PM  | Panel discussion |
 
 # Invited Speakers
-<table style="width:100%" border="0">
+<table style="width:100%">
   <tr>
     <td>
-      <img src='./images/nicolas_padoy.png' width="192" /><br/>
+      <img src='./images/nicolas_padoy.png' width="164" /><br/>
       <font size="3">Nicolas Padoy<br/>University of Strasbourg</font>
     </td>
     <td>
-      <img src='./images/zicheng_liu.png' width="192" /><br/>
+      <img src='./images/zicheng_liu.png' width="164" /><br/>
       <font size="3">Zicheng Liu<br/>Microsoft Research</font>
     </td>
     <td>
-      <img src='./images/serena_young.png' width="192" /><br/>
+      <img src='./images/serena_young.png' width="164" /><br/>
       <font size="3">Serena Yeung<br/>Stanford University</font>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src='./images/mathias_unberath.png' width="164" /><br/>
+      <font size="3">Mathias Unberath<br/>Johns Hopkins University</font>
     </td>
   </tr>
 <table>
