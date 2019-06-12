@@ -60,7 +60,7 @@ For navigation and path planning for devices
       <font size="3">Mathias Unberath<br/>Johns Hopkins University</font>
     </td>
   </tr>
-<table>
+</table>
 
 # Organizers
 - Vivek Singh, Siemens Healthineers
